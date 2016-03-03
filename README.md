@@ -34,6 +34,6 @@ This program extends programming assignment 1 by allowing an abitruary number of
 - Once it is able to be access through the right program you may start to execute the code.
 
 ### Compilers:
-Passes all test on CSEGrid. On MinGW it only passes 186 tests.
+Passes all test on CSEGrid. On MinGW it only passes 186 tests. 
 
 
